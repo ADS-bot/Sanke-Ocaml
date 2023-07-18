@@ -1,2 +1,2 @@
-# Sanke-Ocaml
+# Snake-Ocaml
 Classic snake game using OCaml
